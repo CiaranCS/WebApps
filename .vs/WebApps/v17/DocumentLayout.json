@@ -1,0 +1,215 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\CiaranPuzen\\source\\repos\\WebApps\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6807AE48-BD4E-43E7-BAC6-3C416604D96C}|Basketball\\Basketball.csproj|c:\\users\\ciaranpuzen\\source\\repos\\webapps\\basketball\\teamservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6807AE48-BD4E-43E7-BAC6-3C416604D96C}|Basketball\\Basketball.csproj|solutionrelative:basketball\\teamservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6807AE48-BD4E-43E7-BAC6-3C416604D96C}|Basketball\\Basketball.csproj|c:\\users\\ciaranpuzen\\source\\repos\\webapps\\basketball\\entities\\team.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6807AE48-BD4E-43E7-BAC6-3C416604D96C}|Basketball\\Basketball.csproj|solutionrelative:basketball\\entities\\team.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6807AE48-BD4E-43E7-BAC6-3C416604D96C}|Basketball\\Basketball.csproj|c:\\users\\ciaranpuzen\\source\\repos\\webapps\\basketball\\entities\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6807AE48-BD4E-43E7-BAC6-3C416604D96C}|Basketball\\Basketball.csproj|solutionrelative:basketball\\entities\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6807AE48-BD4E-43E7-BAC6-3C416604D96C}|Basketball\\Basketball.csproj|c:\\users\\ciaranpuzen\\source\\repos\\webapps\\basketball\\controllers\\playerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6807AE48-BD4E-43E7-BAC6-3C416604D96C}|Basketball\\Basketball.csproj|solutionrelative:basketball\\controllers\\playerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6807AE48-BD4E-43E7-BAC6-3C416604D96C}|Basketball\\Basketball.csproj|c:\\users\\ciaranpuzen\\source\\repos\\webapps\\basketball\\entities\\statistic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6807AE48-BD4E-43E7-BAC6-3C416604D96C}|Basketball\\Basketball.csproj|solutionrelative:basketball\\entities\\statistic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6807AE48-BD4E-43E7-BAC6-3C416604D96C}|Basketball\\Basketball.csproj|c:\\users\\ciaranpuzen\\source\\repos\\webapps\\basketball\\playerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6807AE48-BD4E-43E7-BAC6-3C416604D96C}|Basketball\\Basketball.csproj|solutionrelative:basketball\\playerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6807AE48-BD4E-43E7-BAC6-3C416604D96C}|Basketball\\Basketball.csproj|c:\\users\\ciaranpuzen\\source\\repos\\webapps\\basketball\\controllers\\teamscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6807AE48-BD4E-43E7-BAC6-3C416604D96C}|Basketball\\Basketball.csproj|solutionrelative:basketball\\controllers\\teamscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6807AE48-BD4E-43E7-BAC6-3C416604D96C}|Basketball\\Basketball.csproj|c:\\users\\ciaranpuzen\\source\\repos\\webapps\\basketball\\migrations\\20240816075749_addstatisticstable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6807AE48-BD4E-43E7-BAC6-3C416604D96C}|Basketball\\Basketball.csproj|solutionrelative:basketball\\migrations\\20240816075749_addstatisticstable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6807AE48-BD4E-43E7-BAC6-3C416604D96C}|Basketball\\Basketball.csproj|c:\\users\\ciaranpuzen\\source\\repos\\webapps\\basketball\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6807AE48-BD4E-43E7-BAC6-3C416604D96C}|Basketball\\Basketball.csproj|solutionrelative:basketball\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6807AE48-BD4E-43E7-BAC6-3C416604D96C}|Basketball\\Basketball.csproj|c:\\users\\ciaranpuzen\\source\\repos\\webapps\\basketball\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6807AE48-BD4E-43E7-BAC6-3C416604D96C}|Basketball\\Basketball.csproj|solutionrelative:basketball\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6807AE48-BD4E-43E7-BAC6-3C416604D96C}|Basketball\\Basketball.csproj|c:\\users\\ciaranpuzen\\source\\repos\\webapps\\basketball\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6807AE48-BD4E-43E7-BAC6-3C416604D96C}|Basketball\\Basketball.csproj|solutionrelative:basketball\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20240816075749_AddStatisticsTable.cs",
+              "DocumentMoniker": "C:\\Users\\CiaranPuzen\\source\\repos\\WebApps\\Basketball\\Migrations\\20240816075749_AddStatisticsTable.cs",
+              "RelativeDocumentMoniker": "Basketball\\Migrations\\20240816075749_AddStatisticsTable.cs",
+              "ToolTip": "C:\\Users\\CiaranPuzen\\source\\repos\\WebApps\\Basketball\\Migrations\\20240816075749_AddStatisticsTable.cs",
+              "RelativeToolTip": "Basketball\\Migrations\\20240816075749_AddStatisticsTable.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T07:58:01.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Statistic.cs",
+              "DocumentMoniker": "C:\\Users\\CiaranPuzen\\source\\repos\\WebApps\\Basketball\\Entities\\Statistic.cs",
+              "RelativeDocumentMoniker": "Basketball\\Entities\\Statistic.cs",
+              "ToolTip": "C:\\Users\\CiaranPuzen\\source\\repos\\WebApps\\Basketball\\Entities\\Statistic.cs",
+              "RelativeToolTip": "Basketball\\Entities\\Statistic.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T07:46:43.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PlayerService.cs",
+              "DocumentMoniker": "C:\\Users\\CiaranPuzen\\source\\repos\\WebApps\\Basketball\\PlayerService.cs",
+              "RelativeDocumentMoniker": "Basketball\\PlayerService.cs",
+              "ToolTip": "C:\\Users\\CiaranPuzen\\source\\repos\\WebApps\\Basketball\\PlayerService.cs",
+              "RelativeToolTip": "Basketball\\PlayerService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T07:26:44.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PlayersController.cs",
+              "DocumentMoniker": "C:\\Users\\CiaranPuzen\\source\\repos\\WebApps\\Basketball\\Controllers\\PlayersController.cs",
+              "RelativeDocumentMoniker": "Basketball\\Controllers\\PlayersController.cs",
+              "ToolTip": "C:\\Users\\CiaranPuzen\\source\\repos\\WebApps\\Basketball\\Controllers\\PlayersController.cs",
+              "RelativeToolTip": "Basketball\\Controllers\\PlayersController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T07:21:46.724Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\CiaranPuzen\\source\\repos\\WebApps\\Basketball\\Entities\\Player.cs",
+              "RelativeDocumentMoniker": "Basketball\\Entities\\Player.cs",
+              "ToolTip": "C:\\Users\\CiaranPuzen\\source\\repos\\WebApps\\Basketball\\Entities\\Player.cs",
+              "RelativeToolTip": "Basketball\\Entities\\Player.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAgAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T06:44:00.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Team.cs",
+              "DocumentMoniker": "C:\\Users\\CiaranPuzen\\source\\repos\\WebApps\\Basketball\\Entities\\Team.cs",
+              "RelativeDocumentMoniker": "Basketball\\Entities\\Team.cs",
+              "ToolTip": "C:\\Users\\CiaranPuzen\\source\\repos\\WebApps\\Basketball\\Entities\\Team.cs",
+              "RelativeToolTip": "Basketball\\Entities\\Team.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T05:30:14.575Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DataContext.cs",
+              "DocumentMoniker": "C:\\Users\\CiaranPuzen\\source\\repos\\WebApps\\Basketball\\DataContext.cs",
+              "RelativeDocumentMoniker": "Basketball\\DataContext.cs",
+              "ToolTip": "C:\\Users\\CiaranPuzen\\source\\repos\\WebApps\\Basketball\\DataContext.cs",
+              "RelativeToolTip": "Basketball\\DataContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T05:13:46.889Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TeamService.cs",
+              "DocumentMoniker": "C:\\Users\\CiaranPuzen\\source\\repos\\WebApps\\Basketball\\TeamService.cs",
+              "RelativeDocumentMoniker": "Basketball\\TeamService.cs",
+              "ToolTip": "C:\\Users\\CiaranPuzen\\source\\repos\\WebApps\\Basketball\\TeamService.cs",
+              "RelativeToolTip": "Basketball\\TeamService.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAwwDAAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T05:00:23.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\CiaranPuzen\\source\\repos\\WebApps\\Basketball\\Program.cs",
+              "RelativeDocumentMoniker": "Basketball\\Program.cs",
+              "ToolTip": "C:\\Users\\CiaranPuzen\\source\\repos\\WebApps\\Basketball\\Program.cs",
+              "RelativeToolTip": "Basketball\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T03:09:57.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TeamsController.cs",
+              "DocumentMoniker": "C:\\Users\\CiaranPuzen\\source\\repos\\WebApps\\Basketball\\Controllers\\TeamsController.cs",
+              "RelativeDocumentMoniker": "Basketball\\Controllers\\TeamsController.cs",
+              "ToolTip": "C:\\Users\\CiaranPuzen\\source\\repos\\WebApps\\Basketball\\Controllers\\TeamsController.cs",
+              "RelativeToolTip": "Basketball\\Controllers\\TeamsController.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAqwCsAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T03:00:12.647Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\CiaranPuzen\\source\\repos\\WebApps\\Basketball\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Basketball\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\CiaranPuzen\\source\\repos\\WebApps\\Basketball\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Basketball\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-16T02:54:34.653Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
