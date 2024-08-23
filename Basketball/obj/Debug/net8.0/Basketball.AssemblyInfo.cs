@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Basketball")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cc1f80f77e6408c43bce7e6149e548e80dcbcca0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fe198ace1d76cc88eb63908264d9cf5bc3df8f40")]
 [assembly: System.Reflection.AssemblyProductAttribute("Basketball")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Basketball")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

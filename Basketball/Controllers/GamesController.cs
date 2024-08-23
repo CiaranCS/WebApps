@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Http;
+﻿using Basketball.Entities;
+using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
 namespace Basketball.Controllers
@@ -24,11 +25,16 @@ namespace Basketball.Controllers
         }
 
 
-        [HttpGet("GetGameById/{GameId}")]
-        public IActionResult GetGame([FromRoute]int GameId)
+        [HttpGet("GetGameById/{gameId}")]
+        public IActionResult GetGame([FromRoute]int gameId)
         {
-            var allGames = _gameService.GetAllGames();
-            return Ok(allGames);
+
+            var game = _gameService.GetGame(gameId);
+            if (game is null)
+            {
+                return NotFound();
+            }
+            return Ok(game);
         }
 
         [HttpPost]

@@ -15,8 +15,8 @@
 
         public Player GetBestPlayer()
         {
-            var bestPerecent = Players.Max(p => p.Statistics.TotalPercent);
-            var bestPlayer = Players.Where(p => p.Statistics.TotalPercent ==  bestPerecent).FirstOrDefault();
+            var bestPerecent = Players.Max(p => p.Statistics?.TotalPercent);
+            var bestPlayer = Players.Where(p => p.Statistics?.TotalPercent ==  bestPerecent).FirstOrDefault();
             return bestPlayer;
         }
         
