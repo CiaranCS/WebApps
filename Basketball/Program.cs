@@ -12,6 +12,7 @@ builder.Services.AddControllers().AddJsonOptions(options =>
 });
 builder.Services.AddScoped<ITeamService, TeamService>();
 builder.Services.AddScoped<IPlayerService, PlayerService>();
+builder.Services.AddScoped<IGameService, GameService>();
 
 var app = builder.Build();
 

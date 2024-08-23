@@ -9,6 +9,9 @@
         public Player BestPlayer => GetBestPlayer();
         public List<Player> Players { get; set; }
 
+        public List<Game> Games { get; set; }
+        public List<GameTeam> GameTeams { get; set; }
+
 
         public Player GetBestPlayer()
         {

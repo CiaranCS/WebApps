@@ -129,3 +129,4 @@ C:\Users\CiaranPuzen\source\repos\WebApps\Basketball\obj\Debug\net8.0\refint\Bas
 C:\Users\CiaranPuzen\source\repos\WebApps\Basketball\obj\Debug\net8.0\Basketball.pdb
 C:\Users\CiaranPuzen\source\repos\WebApps\Basketball\obj\Debug\net8.0\Basketball.genruntimeconfig.cache
 C:\Users\CiaranPuzen\source\repos\WebApps\Basketball\obj\Debug\net8.0\ref\Basketball.dll
+C:\Users\CiaranPuzen\source\repos\WebApps\Basketball\obj\Debug\net8.0\Basketball.sourcelink.json
