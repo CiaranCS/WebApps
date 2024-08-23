@@ -37,26 +37,37 @@ namespace Basketball.Controllers
             return Ok(game);
         }
 
-        [HttpPost]
-        public IActionResult CreateGame()
+        [HttpPost("LogGame")]
+        public IActionResult CreateGame(CreateGameInfo newGame)
         {
-            var allGames = _gameService.GetAllGames();
-            return Ok(allGames);
+            _gameService.CreateGame(newGame);
+            return Ok();
         }
 
 
-    }
-
-
-    public class GameInfo
-    {
 
     }
 
 
-    public class CreateGame
+    public class CreateGameInfo
     {
 
+        public int HometeamId { get; set; }
+        public int AwayteamId { get; set; }
+        public int HomeTeamScore { get; set; }
+        public int AwayTeamScore { get; set; }
+        public int WinnerTeamId { get; set; }
+        public DateTimeOffset StartTime { get; set; }
+
+
+    }
+
+
+    public class NewGameTeam 
+    {
+        public int TeamId { get; set; }
+        public int GameId { get; set; }
     }
 
 }
+

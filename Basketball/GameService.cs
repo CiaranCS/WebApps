@@ -8,6 +8,7 @@ namespace Basketball
     {
         public List<Game> GetAllGames();
         public GameDto GetGame(int gameId);
+        public void CreateGame(CreateGameInfo newGame);
 
     }
 
@@ -15,6 +16,13 @@ namespace Basketball
     {
 
         private DataContext _dataContext = new DataContext();
+        private ILogger<GameService> _logger;
+
+        public GameService(ILogger<GameService> logger)
+        {
+            _logger = logger;
+        }
+
 
 
         private TeamDto GetTeamInfo(Team team)
@@ -50,6 +58,7 @@ namespace Basketball
             }
             return teamDto;
         }
+
 
         public List<Game> GetAllGames()
         {
@@ -90,6 +99,54 @@ namespace Basketball
 
         }
 
+
+        public void CreateGame(CreateGameInfo newGame)
+        {
+
+            var game = new Game
+            {
+                HomeTeamID = newGame.HometeamId,
+                AwayTeamID = newGame.AwayteamId,
+                HomeTeamScore = newGame.HomeTeamScore,
+                AwayTeamScore = newGame.AwayTeamScore,
+                WinnerTeamID = newGame.WinnerTeamId,
+                DatePlayed = newGame.StartTime
+            };
+
+            var gameTeams = new List<GameTeam> 
+            {
+                new GameTeam
+                {
+                    Game = game,
+                    TeamId = game.HomeTeamID
+                },
+                new GameTeam
+                {
+                    Game= game,
+                    TeamId= game.AwayTeamID
+                }
+
+            };
+
+            try
+            {
+
+                foreach (var gameTeam in gameTeams)
+                {
+                    _dataContext.GameTeams.Add(gameTeam);
+
+                }
+                _dataContext.SaveChanges();
+            }
+            catch (Exception ex)
+            {
+                _logger.LogError(ex, "Did not save changes to database");
+                throw;
+            }
+
+
+
+        }
 
 
 

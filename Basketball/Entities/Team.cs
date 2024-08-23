@@ -1,10 +1,17 @@
-﻿namespace Basketball.Entities
+﻿using Microsoft.EntityFrameworkCore;
+using System.ComponentModel.DataAnnotations;
+
+namespace Basketball.Entities
 {
+    [Index("Name", IsUnique = true)]
     public class Team
     {
         public int Id { get; set; }
+
+        [StringLength(16)]
+
         public string Name { get; set; }
-        public string Location { get; set; }
+        public string? Location { get; set; } 
 
         public Player BestPlayer => GetBestPlayer();
         public List<Player> Players { get; set; }
