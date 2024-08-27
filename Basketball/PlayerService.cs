@@ -12,7 +12,12 @@ namespace Basketball
 
     public class PlayerService : IPlayerService
     {
-        private DataContext _dataContext = new DataContext();
+        private readonly DataContext _dataContext;
+
+        public PlayerService(DataContext dataContext)
+        {
+            _dataContext = dataContext;
+        }
         public void Update(UpdatePlayer updatePlayer) 
         { 
             var oldPlayer = Get(updatePlayer.Id);

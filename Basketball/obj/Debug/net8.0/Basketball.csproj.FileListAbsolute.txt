@@ -130,3 +130,14 @@ C:\Users\CiaranPuzen\source\repos\WebApps\Basketball\obj\Debug\net8.0\Basketball
 C:\Users\CiaranPuzen\source\repos\WebApps\Basketball\obj\Debug\net8.0\Basketball.genruntimeconfig.cache
 C:\Users\CiaranPuzen\source\repos\WebApps\Basketball\obj\Debug\net8.0\ref\Basketball.dll
 C:\Users\CiaranPuzen\source\repos\WebApps\Basketball\obj\Debug\net8.0\Basketball.sourcelink.json
+C:\Users\CiaranPuzen\source\repos\WebApps\Basketball\bin\Debug\net8.0\Azure.Monitor.OpenTelemetry.AspNetCore.dll
+C:\Users\CiaranPuzen\source\repos\WebApps\Basketball\bin\Debug\net8.0\Azure.Monitor.OpenTelemetry.Exporter.dll
+C:\Users\CiaranPuzen\source\repos\WebApps\Basketball\bin\Debug\net8.0\OpenTelemetry.dll
+C:\Users\CiaranPuzen\source\repos\WebApps\Basketball\bin\Debug\net8.0\OpenTelemetry.Api.dll
+C:\Users\CiaranPuzen\source\repos\WebApps\Basketball\bin\Debug\net8.0\OpenTelemetry.Api.ProviderBuilderExtensions.dll
+C:\Users\CiaranPuzen\source\repos\WebApps\Basketball\bin\Debug\net8.0\OpenTelemetry.Extensions.Hosting.dll
+C:\Users\CiaranPuzen\source\repos\WebApps\Basketball\bin\Debug\net8.0\OpenTelemetry.Instrumentation.AspNetCore.dll
+C:\Users\CiaranPuzen\source\repos\WebApps\Basketball\bin\Debug\net8.0\OpenTelemetry.Instrumentation.Http.dll
+C:\Users\CiaranPuzen\source\repos\WebApps\Basketball\bin\Debug\net8.0\OpenTelemetry.PersistentStorage.Abstractions.dll
+C:\Users\CiaranPuzen\source\repos\WebApps\Basketball\bin\Debug\net8.0\OpenTelemetry.PersistentStorage.FileSystem.dll
+C:\Users\CiaranPuzen\source\repos\WebApps\Basketball\bin\Debug\net8.0\System.ClientModel.dll

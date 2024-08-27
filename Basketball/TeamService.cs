@@ -16,8 +16,12 @@ namespace Basketball
     }
     public class TeamService : ITeamService
     {
-        private DataContext _dataContext = new DataContext();
+        private readonly DataContext _dataContext;
 
+        public TeamService(DataContext dataContext)
+        {
+            _dataContext = dataContext;
+        }
         public void Create(CreateTeamRequest newTeam)
         {
             Team team = new Team();

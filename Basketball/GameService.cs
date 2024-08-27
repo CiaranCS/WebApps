@@ -15,12 +15,13 @@ namespace Basketball
     public class GameService : IGameService
     {
 
-        private DataContext _dataContext = new DataContext();
+        private readonly DataContext _dataContext;
         private ILogger<GameService> _logger;
 
-        public GameService(ILogger<GameService> logger)
+        public GameService(ILogger<GameService> logger, DataContext dataContext)
         {
             _logger = logger;
+            _dataContext = dataContext;
         }
 
 
